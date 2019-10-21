@@ -1,0 +1,24 @@
+{
+  "name": "working",
+  "version": "1.0.0",
+  "description": "A web development project built for TOP.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolphinOfDelphi/20191021-top-todo-list.git"
+  },
+  "keywords": [],
+  "author": "Daniel Chung <caudaDelphini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dolphinOfDelphi/20191021-top-todo-list/issues"
+  },
+  "homepage": "https://github.com/dolphinOfDelphi/20191021-top-todo-list#readme",
+  "dependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
